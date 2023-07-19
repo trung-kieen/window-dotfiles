@@ -27,3 +27,4 @@ scoop install msys2
 :: Other packages
 scoop install rainmeter flow-launcher obsidian anki winrar sublime-text flux brave
 winget install -e --id VNGCorp.Zalo
+winget install --id Armin2208.WindowsAutoNightMode
