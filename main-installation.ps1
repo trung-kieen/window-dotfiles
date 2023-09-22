@@ -37,7 +37,17 @@ if(-not($ifChocoInstalled)){
     Write-host "Chocolatey $ifChocoInstalled is already installed" -ForegroundColor Green
 }
  
- 
+
+# Scopp installation
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser # Optional: Needed to run a remote script the first time
+ irm get.scoop.sh | iex
+Update-Environment-Path
+
+scoop install git
+# scoop install bucket add extras
+scoop bucket add extras
+
+
 #GIT Installation
  
 $ifGITInstalled = powershell git --version
@@ -230,3 +240,4 @@ Write-Output 'Be sure to configure Windows Terminal fonts! Suggest using "fontFa
  
  
 Write-Host "Script execution finished , please check output for any error and restart your machine!!!!" -ForegroundColor blue  -BackgroundColor Yellow
+Write-Host "Check out install scoop packages, further pacakges" -ForegroundColor blue  -BackgroundColor Yellow
