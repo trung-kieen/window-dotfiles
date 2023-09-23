@@ -21,7 +21,7 @@ Update-Environment-Path
 
 scoop bucket add main
 scoop install neovim
-scoop install ripgrep
+scoop install ripgrep curl grep sed less touch
 
 
 pip install --user --upgrade pynvim 
