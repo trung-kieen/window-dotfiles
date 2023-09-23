@@ -1,7 +1,7 @@
-Move this folder to D:\Window-setup
-Check out update 
-Then open powershell with admin
-Install choco with this command 
+Move this folder to D:\window-setup.
+Check out update.
+Then open powershell with admin.
+Install choco with this command.
 
 
 ```
@@ -11,11 +11,12 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 
 
-Run this
+Run this main script:
 
 ```
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072;
 
-iex "D:\Window-setup\Instalation.ps1"
+iex "D:\window-setup\main-installation.ps1"
 
 ```
+There are other heavy packages in optional-package.ps1.

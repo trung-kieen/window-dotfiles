@@ -8,7 +8,7 @@ Write-Warning  "Please make sure to install following software by provider websi
 Write-Warning  "Microsoft Visual Studio, MS SQL Server , PostSharp, Gibraltar,Resharper" -ForegroundColor
  
 Write-Host "This script will install following packages - chocolatey , GIT , IISFeatures, Notepad++, NodeJS, Postman,
-RedisDesktop manager, Postman, Zeplin & Service bus explorer " -ForegroundColor Green
+RedisDesktop manager, Postman, Zeplin & Service bus explorer, ... " -ForegroundColor Green
   
  
 #function to update system path after installation
@@ -46,6 +46,31 @@ Update-Environment-Path
 scoop install git
 # scoop install bucket add extras
 scoop bucket add extras
+
+
+scoop install curl sudo jq git main
+Update-Environment-Path
+
+
+scoop bucket add main
+scoop install neovim
+scoop install ripgrep
+
+
+pip install --user --upgrade pynvim 
+# Install nvim plug
+iwr -useb https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim |`
+    ni "$(@($env:XDG_DATA_HOME, $env:LOCALAPPDATA)[$null -eq $env:XDG_DATA_HOME])/nvim-data/site/autoload/plug.vim" -Force
+Write-Host "Neovim plug have installed" -ForegroundColor blue  -BackgroundColor Yellow
+
+Update-Environment-Path
+
+scoop install msys2 
+Update-Environment-Path
+
+scoop install rainmeter flow-launcher obsidian anki winrar sublime-text flux brave vim
+scoop install extras/wpsoffice
+
 
 
 #GIT Installation
@@ -131,10 +156,10 @@ Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer
 #Set-ItemProperty . Hidden "1"
 Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" -Name "Hidden" -Value 1
 
-choco install tortoisegit --yes
+# choco install tortoisegit --yes
 
-choco install webdeploy -y
-choco install urlrewrite -y
+# choco install webdeploy -y
+# choco install urlrewrite -y
  
 #Jetbrains dotpeek
  
@@ -161,7 +186,7 @@ choco install python --yes
 choco install pip --yes
 
 #ServiceBusExplorer
-choco install servicebusexplorer
+# choco install servicebusexplorer
 
 
 
@@ -187,19 +212,13 @@ choco install responsively figma drawio github-desktop powertoys  --yes
 
 
 
-choco install gcc
+choco install gcc --yes
 Update-Environment-Path
 
 choco install unikey --yes
 winget install -e --id VNGCorp.Zalo
 winget install --id Armin2208.WindowsAutoNightMode
 winget install -e --id FilesCommunity.Files
-
-
-
-
-
-
 
 
 #Vscode
@@ -240,4 +259,5 @@ Write-Output 'Be sure to configure Windows Terminal fonts! Suggest using "fontFa
  
  
 Write-Host "Script execution finished , please check output for any error and restart your machine!!!!" -ForegroundColor blue  -BackgroundColor Yellow
-Write-Host "Check out install scoop packages, further pacakges" -ForegroundColor blue  -BackgroundColor Yellow
+Write-Host "Check out install optional pacakges, all scoop packages have already install in this script" -ForegroundColor blue  -BackgroundColor Yellow
+Write-Host "Check does unikey work" -ForegroundColor blue  -BackgroundColor Yellow
