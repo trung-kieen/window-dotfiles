@@ -186,7 +186,7 @@ npm-windows-upgrade --npm-version latest
 choco install postman --yes
 choco install redis-desktop-manager --yes
 choco install zeplin --yes
-choco install python --yes
+choco install python3 --yes
 choco install pip --yes
 
 #ServiceBusExplorer
