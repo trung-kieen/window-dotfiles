@@ -36,3 +36,6 @@ Update-Environment-Path
 
 scoop install rainmeter flow-launcher obsidian anki winrar sublime-text flux brave vim
 scoop install extras/wpsoffice
+scoop install ripgrep curl grep sed less touch
+scoop bucket add nerd-fonts
+scoop install nerd-fonts/JetBrains-Mono
