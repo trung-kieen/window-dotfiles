@@ -20,3 +20,7 @@ iex "D:\window-setup\main-installation.ps1"
 
 ```
 There are other heavy packages in optional-package.ps1.
+Consider to reuse other packages list 
+https://gist.github.com/jetstreamin/d59be158acb494bf0dbe2591c9385274
+https://github.com/berkanuslu/choco-development-enviroment-setup/blob/main/setup_development_environment.ps1
+
