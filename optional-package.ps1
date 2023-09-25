@@ -1,10 +1,12 @@
+# NOTE: This will contain many hevy package 
 # Eclipse 	
 choco install eclipse --yes
 
 choco install docker-desktop --yes
 Update-Environment-Path
 
-
+scoop install main/php
+scoop install extras/xampp
 # wsl --install
 
 

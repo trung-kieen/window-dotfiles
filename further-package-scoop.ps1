@@ -22,7 +22,7 @@ Update-Environment-Path
 scoop bucket add main
 scoop install neovim
 scoop install ripgrep curl grep sed less touch
-
+scoop install extras/sharex
 
 pip install --user --upgrade pynvim 
 # Install nvim plug

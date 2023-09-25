@@ -58,6 +58,8 @@ scoop install ripgrep curl grep sed less touch
 scoop bucket add nerd-fonts
 scoop install nerd-fonts/JetBrains-Mono
 scoop install main/gdb
+scoop install extras/sharex
+
 
 pip install --user --upgrade pynvim 
 # Install nvim plug
