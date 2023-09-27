@@ -214,6 +214,16 @@ choco install responsively figma drawio github-desktop powertoys  --yes
 
 
 
+# Setup Oh my posh 
+winget install JanDeDobbeleer.OhMyPosh -s winget
+Update-Environment-Path
+oh-my-posh get shell
+echo  "oh-my-posh init pwsh | Invoke-Expression" >> $PROFILE
+# Reload profile
+. $PROFILE      
+                                                               
+
+
 
 
 choco install gcc --yes
