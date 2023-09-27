@@ -221,6 +221,9 @@ oh-my-posh get shell
 echo  "oh-my-posh init pwsh | Invoke-Expression" >> $PROFILE
 # Reload profile
 . $PROFILE      
+oh-my-posh font install --user
+Update-Environment-Path
+
                                                                
 
 
@@ -233,6 +236,8 @@ choco install unikey --yes
 winget install -e --id VNGCorp.Zalo
 winget install --id Armin2208.WindowsAutoNightMode
 winget install -e --id FilesCommunity.Files
+winget install Microsoft.PowerShell
+
 
 
 #Vscode
