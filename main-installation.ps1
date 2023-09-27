@@ -280,3 +280,6 @@ Write-Output 'Be sure to configure Windows Terminal fonts! Suggest using "fontFa
 Write-Host "Script execution finished , please check output for any error and restart your machine!!!!" -ForegroundColor blue  -BackgroundColor Yellow
 Write-Host "Check out install optional pacakges, all scoop packages have already install in this script" -ForegroundColor blue  -BackgroundColor Yellow
 Write-Host "Check does unikey work" -ForegroundColor blue  -BackgroundColor Yellow
+Write-Host "Check window terminal default, go to setting > default > apparent > Coloscheme: Sonokai Shusia" -ForegroundColor blue  -BackgroundColor Yellow
+Write-Host "Change terminal config json with file settings.json in this repo" -ForegroundColor blue  -BackgroundColor Yellow
+Write-Host "Further setting for rainsmeter https://github.com/Jax-Core/JaxCore" -ForegroundColor blue  -BackgroundColor Yellow
