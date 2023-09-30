@@ -74,6 +74,7 @@ Update-Environment-Path
 
 scoop install rainmeter flow-launcher obsidian anki winrar sublime-text flux brave vim
 scoop install extras/wpsoffice
+scoop install main/clangd
 
 
 
