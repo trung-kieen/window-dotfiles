@@ -7,12 +7,8 @@ Update-Environment-Path
 
 scoop install main/php
 scoop install extras/xampp
-# Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
-# restart
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 # wsl --install
-# May be need to enable Inter virtualization technology in BIOS
-wsl install -d Ubuntu
-
 
 
 # PowerShell Tooling for Git
