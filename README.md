@@ -24,3 +24,4 @@ Consider to reuse other packages list
 https://gist.github.com/jetstreamin/d59be158acb494bf0dbe2591c9385274
 https://github.com/berkanuslu/choco-development-enviroment-setup/blob/main/setup_development_environment.ps1
 
+After install window plz go to msconfig and change RAM usage.

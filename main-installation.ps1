@@ -76,7 +76,8 @@ scoop install rainmeter flow-launcher obsidian anki winrar sublime-text flux bra
 scoop install extras/wpsoffice
 scoop install main/clangd
 scoop install zig
-
+scoop install extras/terminal-icons
+scoop install main/zoxide
 
 #GIT Installation
  
@@ -284,3 +285,4 @@ Write-Host "Check does unikey work" -ForegroundColor blue  -BackgroundColor Yell
 Write-Host "Check window terminal default, go to setting > default > apparent > Coloscheme: Sonokai Shusia" -ForegroundColor blue  -BackgroundColor Yellow
 Write-Host "Change terminal config json with file settings.json in this repo" -ForegroundColor blue  -BackgroundColor Yellow
 Write-Host "Further setting for rainsmeter https://github.com/Jax-Core/JaxCore" -ForegroundColor blue  -BackgroundColor Yellow
+Write-Host "Change profile from file in this repo with vi $PROFILE" -ForegroundColor blue  -BackgroundColor Yellow

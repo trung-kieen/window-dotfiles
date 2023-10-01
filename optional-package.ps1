@@ -7,10 +7,12 @@ Update-Environment-Path
 
 scoop install main/php
 scoop install extras/xampp
-# Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+dism.exe /online /enable-feature /featurename:Microsoft-Window-Subsystem-Linux /all /norestart
 # restart
-# wsl --install
-# May be need to enable Inter virtualization technology in BIOS
+wsl --install
+# Require enable Inter virtualization technology in BIOS
 wsl install -d Ubuntu
 
 
