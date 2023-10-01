@@ -87,6 +87,9 @@ function admin {
 # with elevated rights. 
 Set-Alias -Name su -Value admin
 Set-Alias -Name sudo -Value admin
+Set-Alias -Name l -Value Get-ChildIte
+Set-Alias -Name touch -Value New-Item
+
 
 
 # Make it easy to edit this profile once it's installed
