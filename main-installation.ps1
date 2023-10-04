@@ -163,7 +163,7 @@ Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer
 #Set-ItemProperty . Hidden "1"
 Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" -Name "Hidden" -Value 1
 
-# choco install tortoisegit --yes
+ choco install tortoisegit --yes
 
 # choco install webdeploy -y
 # choco install urlrewrite -y
@@ -186,6 +186,7 @@ npm install --global --production npm-windows-upgrade
 npm-windows-upgrade --npm-version latest
  
 
+choco install embarcaderodevcpp --yes
 choco install postman --yes
 choco install redis-desktop-manager --yes
 choco install zeplin --yes
@@ -270,6 +271,10 @@ code --install-extension johnpapa.Angular2
  
 Update-Environment-Path
 
+Copy-Item -Path .\PROFILE.ps1 -Destination $PROFILE -Force
+Copy-Item -Path .\settings.json" -Destination "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" -Force
+. $PROFILE
+
 
 # Font to support PowerShell Tooling:
 git clone https://github.com/ryanoasis/nerd-fonts.git  --depth 1
@@ -284,6 +289,6 @@ Write-Host "Script execution finished , please check output for any error and re
 Write-Host "Check out install optional pacakges, all scoop packages have already install in this script" -ForegroundColor blue  -BackgroundColor Yellow
 Write-Host "Check does unikey work" -ForegroundColor blue  -BackgroundColor Yellow
 Write-Host "Check window terminal default, go to setting > default > apparent > Coloscheme: Sonokai Shusia" -ForegroundColor blue  -BackgroundColor Yellow
-Write-Host "Change terminal config json with file settings.json in this repo" -ForegroundColor blue  -BackgroundColor Yellow
+Write-Host "Change terminal config json with file settings.json in this repo (Update now i have automatic do this)" -ForegroundColor blue  -BackgroundColor Yellow
 Write-Host "Further setting for rainsmeter https://github.com/Jax-Core/JaxCore" -ForegroundColor blue  -BackgroundColor Yellow
-Write-Host "Change profile from file in this repo with vi $PROFILE" -ForegroundColor blue  -BackgroundColor Yellow
+Write-Host "Change profile from file in this repo with vi $PROFILE (Update now i have automatic do this)" -ForegroundColor blue  -BackgroundColor Yellow
