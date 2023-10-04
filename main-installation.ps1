@@ -54,11 +54,12 @@ Update-Environment-Path
 
 scoop bucket add main
 scoop install neovim
-scoop install ripgrep curl grep sed less touch
+scoop install ripgrep curl grep sed less touch lf
 scoop bucket add nerd-fonts
 scoop install nerd-fonts/JetBrains-Mono
 scoop install main/gdb
 scoop install extras/sharex
+
 
 
 pip install --user --upgrade pynvim 
