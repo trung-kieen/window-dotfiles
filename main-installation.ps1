@@ -54,7 +54,7 @@ Update-Environment-Path
 
 scoop bucket add main
 scoop install neovim
-scoop install ripgrep curl grep sed less touch lf
+scoop install ripgrep curl grep sed less touch lf make
 scoop bucket add nerd-fonts
 scoop install nerd-fonts/JetBrains-Mono
 scoop install main/gdb
@@ -180,6 +180,10 @@ Update-Environment-Path
  
 # Node
 choco install nodejs.install --yes
+Update-Environment-Path
+
+# Rust
+choco install rust
 Update-Environment-Path
  
 npm install --global --production npm-windows-upgrade
