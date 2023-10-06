@@ -49,10 +49,12 @@ scoop bucket add extras
 
 
 scoop install curl sudo jq git main
+
 Update-Environment-Path
 
 
 scoop bucket add main
+scoop install lazygit
 scoop install neovim
 scoop install ripgrep curl grep sed less touch lf make
 scoop bucket add nerd-fonts

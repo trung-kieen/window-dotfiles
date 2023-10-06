@@ -28,3 +28,10 @@ After install window plz go to msconfig and change RAM usage.
 
 # Usefull tool in this installation 
 - Use lfcd to navigation file
+
+
+# Setup user setting further 
+Window settings directory
+```
+cd  $env:USERPROFILE\AppData\Local
+```
