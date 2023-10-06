@@ -176,7 +176,6 @@ Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer
 #choco install dotpeek
  
 #Notepad++ installation
- 
 choco install notepadplusplus.install --yes
 Update-Environment-Path
  
@@ -274,6 +273,21 @@ code --install-extension johnpapa.Angular2
 
 
 
+
+# Set window wallpaper
+# Define constants for the SystemParametersInfo function
+# Set the path to your wallpaper image
+$wallpaperPath = "D:\window-setup\wallpaper.png"
+# Update the wallpaper registry settings
+Set-ItemProperty -Path 'HKCU:\Control Panel\Desktop' -Name Wallpaper -Value $wallpaperPath
+# Refresh the desktop to apply the changes
+Invoke-Expression -Command "RUNDLL32.EXE USER32.DLL,UpdatePerUserSystemParameters ,1 ,True"
+# Optionally, set the wallpaper style (0 = Tiled, 2 = Centered, 6 = Stretched)
+Set-ItemProperty -Path 'HKCU:\Control Panel\Desktop' -Name WallpaperStyle -Value 2
+# Set the wallpaper to change immediately
+Set-ItemProperty -Path 'HKCU:\Control Panel\Desktop' -Name TileWallpaper -Value 0
+
+
  
 Update-Environment-Path
 
@@ -297,4 +311,5 @@ Write-Host "Check does unikey work" -ForegroundColor blue  -BackgroundColor Yell
 Write-Host "Check window terminal default, go to setting > default > apparent > Coloscheme: Sonokai Shusia" -ForegroundColor blue  -BackgroundColor Yellow
 Write-Host "Change terminal config json with file settings.json in this repo (Update now i have automatic do this)" -ForegroundColor blue  -BackgroundColor Yellow
 Write-Host "Further setting for rainsmeter https://github.com/Jax-Core/JaxCore" -ForegroundColor blue  -BackgroundColor Yellow
-Write-Host "Change profile from file in this repo with vi $PROFILE (Update now i have automatic do this)" -ForegroundColor blue  -BackgroundColor Yellow
+Write-Host "Change profile from file in this repo with vim $PROFILE (Update now i have automatic do this)" -ForegroundColor blue  -BackgroundColor Yellow
+Write-Host "Change lock screen: W-i => persionalization => change lock screen" -ForegroundColor blue  -BackgroundColor Yellow
