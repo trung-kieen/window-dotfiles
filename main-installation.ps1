@@ -61,7 +61,7 @@ scoop bucket add nerd-fonts
 scoop install nerd-fonts/JetBrains-Mono
 scoop install main/gdb
 scoop install extras/sharex
-
+scoop install openjdk11
 
 
 pip install --user --upgrade pynvim 
@@ -197,6 +197,9 @@ choco install redis-desktop-manager --yes
 choco install zeplin --yes
 choco install python3 --yes
 choco install pip --yes
+choco install adoptopenjdk --yes
+choco install maven --yes
+choco install intellijidea-community --yes
 
 #ServiceBusExplorer
 # choco install servicebusexplorer
@@ -295,6 +298,7 @@ Copy-Item -Path .\PROFILE.ps1 -Destination $PROFILE -Force
 Copy-Item -Path .\settings.json" -Destination "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" -Force
 . $PROFILE
 
+.\setup-config-file.ps1
 
 # Font to support PowerShell Tooling:
 git clone https://github.com/ryanoasis/nerd-fonts.git  --depth 1
