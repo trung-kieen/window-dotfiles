@@ -1,0 +1,42 @@
+{
+    "prompt_count_cache_15792": {
+        "value": "11",
+        "timestamp": 1696743378,
+        "ttl": 1440
+    },
+    "prompt_count_cache_16088": {
+        "value": "2",
+        "timestamp": 1696741956,
+        "ttl": 1440
+    },
+    "prompt_count_cache_17944": {
+        "value": "35",
+        "timestamp": 1696744077,
+        "ttl": 1440
+    },
+    "prompt_count_cache_4164": {
+        "value": "11",
+        "timestamp": 1696744484,
+        "ttl": 1440
+    },
+    "prompt_count_cache_5820": {
+        "value": "9",
+        "timestamp": 1696744366,
+        "ttl": 1440
+    },
+    "prompt_count_cache_8392": {
+        "value": "26",
+        "timestamp": 1696744442,
+        "ttl": 1440
+    },
+    "prompt_count_cache_8876": {
+        "value": "6",
+        "timestamp": 1696742123,
+        "ttl": 1440
+    },
+    "upgrade_check": {
+        "value": "v18.11.0",
+        "timestamp": 1696381911,
+        "ttl": 10080
+    }
+}

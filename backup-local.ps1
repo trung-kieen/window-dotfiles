@@ -1,6 +1,5 @@
 # Define the list of folders to back up from AppData\Local
 $foldersToBackup = @(
-    "nvim-data",
     "AutoDarkMode",
     "flux",
     "oh-my-posh"
