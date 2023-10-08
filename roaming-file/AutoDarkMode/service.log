@@ -1,0 +1,691 @@
+2023-09-20 09:19:12 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-20 09:19:12 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-20 09:19:12 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is default theme with localized name, path: C:\Windows\resources\Themes\aero.theme 
+2023-09-20 09:19:14 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-20 09:19:14 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-20 09:19:14 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-20 09:19:14 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-20 09:19:14 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-20 09:19:14 | Info | MessageParser.Parse: signal received: request for running status 
+2023-09-20 09:19:14 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-20 09:19:14 | Info | MessageParser.Parse: signal received: add service to autostart 
+2023-09-20 09:19:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:19:14 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-20 09:19:26 | Info | MessageParser.Parse: signal recevied: get autostart state 
+2023-09-20 09:19:34 | Info | MessageParser.Parse: signal recevied: get autostart state 
+2023-09-20 09:20:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:21:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:22:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:23:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:24:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:25:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:26:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:27:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:28:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:29:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:30:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:31:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:32:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:33:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:34:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:35:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:36:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:37:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:38:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:39:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:40:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:41:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:42:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:43:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:44:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:45:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:46:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:47:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:48:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:49:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:50:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:51:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:52:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:53:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:54:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:55:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:56:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:57:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:58:14 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 09:58:47 | Info | Program.Main: service shutdown successful 
+2023-09-20 10:02:07 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-20 10:02:07 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-20 10:02:07 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is default theme with localized name, path: C:\Windows\resources\Themes\aero.theme 
+2023-09-20 10:02:10 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-20 10:02:10 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-20 10:02:10 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-20 10:02:10 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-20 10:02:10 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-20 10:02:10 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-20 10:02:10 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 10:02:10 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-20 10:03:10 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 10:03:32 | Info | Program.Main: service shutdown successful 
+2023-09-20 07:55:06 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-20 07:55:07 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-20 07:55:07 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is default theme with localized name, path: C:\Windows\resources\Themes\aero.theme 
+2023-09-20 07:55:07 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-20 07:55:07 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-20 07:55:07 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-20 07:55:07 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-20 07:55:07 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-20 07:55:07 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-20 07:55:07 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 07:55:08 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-20 07:55:25 | Info | Program.Main: service shutdown successful 
+2023-09-20 08:44:12 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-20 08:44:12 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-20 08:44:13 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is default theme with localized name, path: C:\Windows\resources\Themes\aero.theme 
+2023-09-20 08:44:13 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-20 08:44:13 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-20 08:44:13 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-20 08:44:13 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-20 08:44:13 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-20 08:44:13 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-20 08:44:13 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-20 08:44:13 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-20 08:44:20 | Info | Program.Main: service shutdown successful 
+2023-09-21 04:36:06 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-21 04:36:06 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-21 04:36:06 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is default theme with localized name, path: C:\Windows\resources\Themes\aero.theme 
+2023-09-21 04:36:06 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-21 04:36:06 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-21 04:36:06 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-21 04:36:06 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-21 04:36:06 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-21 04:36:06 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-21 04:36:06 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 04:36:06 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-21 04:37:06 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 04:38:06 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:38:49 | Info | SystemEventHandler.HandleTimeChangedEvent: system time changed from 9/21/2023 11:38:49 AM 
+2023-09-21 11:39:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:40:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:41:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:42:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:43:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:44:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:45:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:46:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:47:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:48:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:49:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:50:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:51:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:52:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:53:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:54:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:55:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:56:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:57:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:58:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 11:59:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 12:00:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 12:01:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 12:02:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 12:03:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 12:04:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 12:05:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 12:06:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 12:07:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 12:08:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 12:09:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 12:10:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 12:11:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 12:12:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 12:13:05 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-21 12:13:56 | Info | Program.Main: service shutdown successful 
+2023-09-25 20:45:08 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-25 20:45:08 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-25 20:45:09 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is default theme with localized name, path: C:\Windows\resources\Themes\aero.theme 
+2023-09-25 20:45:09 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-25 20:45:09 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-25 20:45:09 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-25 20:45:09 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-25 20:45:09 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-25 20:45:09 | Info | MessageParser.Parse: signal received: request for running status 
+2023-09-25 20:45:09 | Info | MessageParser.Parse: signal received: validate autostart entries 
+2023-09-25 20:45:09 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-25 20:45:09 | Info | ThemeManager.UpdateTheme: theme switch requested with no target theme 
+2023-09-25 20:45:09 | Info | TaskSchdHandler.GetLogonTask: logon task folder does not exist 
+2023-09-25 20:45:09 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-25 20:45:26 | Warn | LocationHandler.UpdateWithGeolocator: no geolocation access, please enable in system settings 
+2023-09-25 20:45:26 | Info | LocationHandler.UpdateSunTime: new sunrise (12:48) and new sunset (00:55) 
+2023-09-25 20:45:27 | Info | MessageParser.Parse: signal received: invoke theme switch request 
+2023-09-25 20:45:27 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [AppsSwitchThemeFile, SystemSwitchThemeFile] 
+2023-09-25 20:45:27 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is default theme with localized name, path: C:\Windows\resources\Themes\aero.theme 
+2023-09-25 20:45:27 | Info | AppsSwitchThemeFile.HandleSwitch: update info - previous: Light, pending: Dark, mode: Switch 
+2023-09-25 20:45:27 | Info | SystemSwitchThemeFile.SwitchSystemTheme: update info - previous: Light/NoAccent, pending: Dark/NoAccent, mode: Switch, accent: no 
+2023-09-25 20:45:27 | Info | ThemeManager.UpdateTheme: dwm management: requested standard refresh will be performed by component(s) in queue 
+2023-09-25 20:45:27 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-09-25 20:45:27 | Info | ThemeManager.UpdateTheme: dark theme switch performed, source: Manual 
+2023-09-25 20:45:28 | Info | MessageParser.Parse: signal received: invoke theme switch request 
+2023-09-25 20:45:34 | Warn | LocationHandler.UpdateWithGeolocator: no geolocation access, please enable in system settings 
+2023-09-25 20:45:34 | Info | LocationHandler.UpdateSunTime: new sunrise (12:48) and new sunset (00:55) 
+2023-09-25 20:45:35 | Info | MessageParser.Parse: signal received: invoke theme switch request 
+2023-09-25 22:38:44 | Info | Program.Main: service shutdown successful 
+2023-09-26 13:07:45 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-26 13:07:45 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-26 13:07:46 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-26 13:07:46 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-26 13:07:46 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-26 13:07:46 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-26 13:07:46 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-26 13:07:46 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-26 13:07:46 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-26 13:07:46 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [AppsSwitchThemeFile, SystemSwitchThemeFile] 
+2023-09-26 13:07:46 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-26 13:07:46 | Info | AppsSwitchThemeFile.HandleSwitch: update info - previous: Dark, pending: Light, mode: Switch 
+2023-09-26 13:07:46 | Info | SystemSwitchThemeFile.SwitchSystemTheme: update info - previous: Dark/NoAccent, pending: Light/NoAccent, mode: Switch, accent: no 
+2023-09-26 13:07:46 | Info | ThemeManager.UpdateTheme: dwm management: requested standard refresh will be performed by component(s) in queue 
+2023-09-26 13:07:46 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-09-26 13:07:46 | Info | ThemeManager.UpdateTheme: light theme switch performed, source: TimeSwitchModule, sunrise: 9/25/2023 12:48:21 PM 
+2023-09-26 13:07:46 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-26 13:07:46 | Warn | LocationHandler.UpdateWithGeolocator: no geolocation access, please enable in system settings 
+2023-09-26 13:07:46 | Info | LocationHandler.UpdateSunTime: new sunrise (12:48) and new sunset (00:54) 
+2023-09-26 13:11:58 | Info | Program.Main: service shutdown successful 
+2023-09-27 08:00:57 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-27 08:00:57 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-27 08:00:57 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-27 08:00:57 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-27 08:00:57 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-27 08:00:57 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-27 08:00:57 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-27 08:00:57 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-27 08:00:58 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-27 08:00:58 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [AppsSwitchThemeFile, SystemSwitchThemeFile] 
+2023-09-27 08:00:58 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-27 08:00:58 | Info | AppsSwitchThemeFile.HandleSwitch: update info - previous: Light, pending: Dark, mode: Switch 
+2023-09-27 08:00:58 | Info | SystemSwitchThemeFile.SwitchSystemTheme: update info - previous: Light/NoAccent, pending: Dark/NoAccent, mode: Switch, accent: no 
+2023-09-27 08:00:58 | Info | ThemeManager.UpdateTheme: dwm management: requested standard refresh will be performed by component(s) in queue 
+2023-09-27 08:00:58 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-09-27 08:00:58 | Info | ThemeManager.UpdateTheme: dark theme switch performed, source: TimeSwitchModule, sunset: 9/27/2023 12:54:48 AM 
+2023-09-27 08:00:58 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-27 08:00:58 | Warn | LocationHandler.UpdateWithGeolocator: no geolocation access, please enable in system settings 
+2023-09-27 08:00:58 | Info | LocationHandler.UpdateSunTime: new sunrise (12:47) and new sunset (00:54) 
+2023-09-27 08:01:58 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [AppsSwitchThemeFile, SystemSwitchThemeFile] 
+2023-09-27 08:01:58 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-27 08:01:58 | Info | AppsSwitchThemeFile.HandleSwitch: update info - previous: Dark, pending: Light, mode: Switch 
+2023-09-27 08:01:58 | Info | SystemSwitchThemeFile.SwitchSystemTheme: update info - previous: Dark/NoAccent, pending: Light/NoAccent, mode: Switch, accent: no 
+2023-09-27 08:01:58 | Info | ThemeManager.UpdateTheme: dwm management: requested standard refresh will be performed by component(s) in queue 
+2023-09-27 08:01:59 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-09-27 08:01:59 | Info | ThemeManager.UpdateTheme: light theme switch performed, source: TimeSwitchModule, sunrise: 9/20/2023 7:00:00 AM 
+2023-09-27 08:17:48 | Info | Program.Main: service shutdown successful 
+2023-09-27 08:36:04 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-27 08:36:04 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-27 08:36:05 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-27 08:36:05 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-27 08:36:05 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-27 08:36:05 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-27 08:36:05 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-27 08:36:05 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-27 08:36:05 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-27 08:36:05 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [AppsSwitchThemeFile, SystemSwitchThemeFile] 
+2023-09-27 08:36:05 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-27 08:36:05 | Info | AppsSwitchThemeFile.HandleSwitch: update info - previous: Light, pending: Dark, mode: Switch 
+2023-09-27 08:36:05 | Info | SystemSwitchThemeFile.SwitchSystemTheme: update info - previous: Light/NoAccent, pending: Dark/NoAccent, mode: Switch, accent: no 
+2023-09-27 08:36:05 | Info | ThemeManager.UpdateTheme: dwm management: requested standard refresh will be performed by component(s) in queue 
+2023-09-27 08:36:05 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-09-27 08:36:05 | Info | ThemeManager.UpdateTheme: dark theme switch performed, source: TimeSwitchModule, sunset: 9/28/2023 12:54:28 AM 
+2023-09-27 08:36:05 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-27 08:36:06 | Warn | LocationHandler.UpdateWithGeolocator: no geolocation access, please enable in system settings 
+2023-09-27 08:36:06 | Info | LocationHandler.UpdateSunTime: new sunrise (12:47) and new sunset (00:54) 
+2023-09-27 08:37:05 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [AppsSwitchThemeFile, SystemSwitchThemeFile] 
+2023-09-27 08:37:06 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-27 08:37:06 | Info | AppsSwitchThemeFile.HandleSwitch: update info - previous: Dark, pending: Light, mode: Switch 
+2023-09-27 08:37:06 | Info | SystemSwitchThemeFile.SwitchSystemTheme: update info - previous: Dark/NoAccent, pending: Light/NoAccent, mode: Switch, accent: no 
+2023-09-27 08:37:06 | Info | ThemeManager.UpdateTheme: dwm management: requested standard refresh will be performed by component(s) in queue 
+2023-09-27 08:37:06 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-09-27 08:37:06 | Info | ThemeManager.UpdateTheme: light theme switch performed, source: TimeSwitchModule, sunrise: 9/20/2023 7:00:00 AM 
+2023-09-27 09:01:24 | Info | Program.Main: service shutdown successful 
+2023-09-27 18:09:24 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-27 18:09:24 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-27 18:09:24 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-27 18:09:24 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-27 18:09:24 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-27 18:09:24 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-27 18:09:24 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-27 18:09:24 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-27 18:09:24 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-27 18:09:24 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-27 18:09:25 | Warn | LocationHandler.UpdateWithGeolocator: no geolocation access, please enable in system settings 
+2023-09-27 18:09:25 | Info | LocationHandler.UpdateSunTime: new sunrise (12:47) and new sunset (00:54) 
+2023-09-27 18:09:25 | Info | UpdateHandler.CheckNewVersion: new version 10.4.1.1 available 
+2023-09-27 18:13:20 | Info | MessageParser.Parse: signal received: request for running status 
+2023-09-27 18:13:20 | Info | MessageParser.Parse: signal received: validate autostart entries 
+2023-09-27 18:13:20 | Info | TaskSchdHandler.GetLogonTask: logon task folder does not exist 
+2023-09-27 18:13:32 | Warn | LocationHandler.UpdateWithGeolocator: no geolocation access, please enable in system settings 
+2023-09-27 18:13:32 | Info | LocationHandler.UpdateSunTime: new sunrise (12:47) and new sunset (00:54) 
+2023-09-27 18:13:33 | Info | MessageParser.Parse: signal received: invoke theme switch request 
+2023-09-27 18:13:38 | Info | MessageParser.Parse: signal received: invoke theme switch request 
+2023-09-27 18:13:47 | Info | MessageParser.Parse: signal received: invoke theme switch request 
+2023-09-27 18:13:47 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [AppsSwitchThemeFile, SystemSwitchThemeFile] 
+2023-09-27 18:13:47 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-27 18:13:47 | Info | AppsSwitchThemeFile.HandleSwitch: update info - previous: Light, pending: Dark, mode: Switch 
+2023-09-27 18:13:47 | Info | SystemSwitchThemeFile.SwitchSystemTheme: update info - previous: Light/NoAccent, pending: Dark/NoAccent, mode: Switch, accent: no 
+2023-09-27 18:13:47 | Info | ThemeManager.UpdateTheme: dwm management: requested standard refresh will be performed by component(s) in queue 
+2023-09-27 18:13:48 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-09-27 18:13:48 | Info | ThemeManager.UpdateTheme: dark theme switch performed, source: Manual 
+2023-09-27 19:01:46 | Info | Program.Main: service shutdown successful 
+2023-09-27 19:46:40 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-27 19:46:40 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-27 19:46:41 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-27 19:46:41 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-27 19:46:41 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-27 19:46:41 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-27 19:46:41 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-27 19:46:41 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-27 19:46:41 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-27 19:46:41 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-27 19:46:57 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-09-27 19:48:48 | Info | Program.Main: service shutdown successful 
+2023-09-27 19:50:01 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-27 19:50:01 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-27 19:50:01 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-27 19:50:01 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-27 19:50:01 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-27 19:50:01 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-27 19:50:01 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-27 19:50:01 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-27 19:50:01 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-27 19:50:01 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-27 19:59:30 | Info | Program.Main: service shutdown successful 
+2023-09-28 16:10:14 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-28 16:10:14 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-28 16:10:14 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-28 16:10:14 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-28 16:10:14 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-28 16:10:14 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-28 16:10:14 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-28 16:10:14 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-28 16:10:15 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-28 16:10:15 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [AppsSwitchThemeFile, SystemSwitchThemeFile] 
+2023-09-28 16:10:15 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-28 16:10:15 | Info | AppsSwitchThemeFile.HandleSwitch: update info - previous: Dark, pending: Light, mode: Switch 
+2023-09-28 16:10:15 | Info | SystemSwitchThemeFile.SwitchSystemTheme: update info - previous: Dark/NoAccent, pending: Light/NoAccent, mode: Switch, accent: no 
+2023-09-28 16:10:15 | Info | ThemeManager.UpdateTheme: dwm management: requested standard refresh will be performed by component(s) in queue 
+2023-09-28 16:10:15 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-09-28 16:10:15 | Info | ThemeManager.UpdateTheme: light theme switch performed, source: TimeSwitchModule, sunrise: 9/27/2023 7:00:00 AM 
+2023-09-28 16:10:15 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-28 16:12:28 | Info | Program.Main: service shutdown successful 
+2023-09-30 11:06:21 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-30 11:06:21 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-30 11:06:21 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-30 11:06:22 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-30 11:06:22 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-30 11:06:22 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-30 11:06:22 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-30 11:06:22 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-30 11:06:22 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-30 11:06:22 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-30 11:11:14 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-09-30 11:11:14 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-09-30 11:21:41 | Info | Program.Main: service shutdown successful 
+2023-09-30 11:50:50 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-30 11:50:50 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-30 11:50:50 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-30 11:50:50 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-30 11:50:50 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-30 11:50:50 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-30 11:50:50 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-30 11:50:50 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-30 11:50:50 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-30 11:50:50 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-30 12:01:14 | Info | Program.Main: service shutdown successful 
+2023-09-30 12:11:39 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-30 12:11:39 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-30 12:11:40 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-30 12:11:40 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-30 12:11:40 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-30 12:11:40 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-30 12:11:40 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-30 12:11:40 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-30 12:11:40 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-30 12:11:40 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-30 12:11:43 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-09-30 12:29:17 | Info | Program.Main: service shutdown successful 
+2023-09-30 16:15:56 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-30 16:15:56 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-30 16:15:56 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-30 16:15:57 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-30 16:15:57 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-30 16:15:57 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-30 16:15:57 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-30 16:15:57 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-30 16:15:57 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-30 16:15:57 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-30 16:17:57 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-09-30 16:19:36 | Info | Program.Main: service shutdown successful 
+2023-09-30 19:57:55 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-30 19:57:55 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-30 19:57:55 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-30 19:57:55 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-30 19:57:55 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-30 19:57:55 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-30 19:57:55 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-30 19:57:55 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-30 19:57:55 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-30 19:57:55 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [AppsSwitchThemeFile, SystemSwitchThemeFile] 
+2023-09-30 19:57:55 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-30 19:57:55 | Info | AppsSwitchThemeFile.HandleSwitch: update info - previous: Light, pending: Dark, mode: Switch 
+2023-09-30 19:57:55 | Info | SystemSwitchThemeFile.SwitchSystemTheme: update info - previous: Light/NoAccent, pending: Dark/NoAccent, mode: Switch, accent: no 
+2023-09-30 19:57:55 | Info | ThemeManager.UpdateTheme: dwm management: requested standard refresh will be performed by component(s) in queue 
+2023-09-30 19:57:56 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-09-30 19:57:56 | Info | ThemeManager.UpdateTheme: dark theme switch performed, source: TimeSwitchModule, sunset: 9/27/2023 5:00:00 PM 
+2023-09-30 19:57:56 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-30 19:58:04 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-09-30 20:50:22 | Info | Program.Main: service shutdown successful 
+2023-09-30 20:51:48 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-30 20:51:48 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-30 20:51:49 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-30 20:51:49 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-30 20:51:49 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-30 20:51:49 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-30 20:51:49 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-30 20:51:49 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-30 20:51:49 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-30 20:51:49 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-30 20:56:50 | Info | Program.Main: service shutdown successful 
+2023-09-30 21:01:31 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-09-30 21:01:31 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-09-30 21:01:31 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-09-30 21:01:32 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-09-30 21:01:32 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-09-30 21:01:32 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-09-30 21:01:32 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-09-30 21:01:32 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-09-30 21:01:32 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-09-30 21:01:32 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-09-30 21:25:11 | Info | Program.Main: service shutdown successful 
+2023-10-01 11:10:11 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-10-01 11:10:11 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-10-01 11:10:12 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-10-01 11:10:12 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-10-01 11:10:12 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-10-01 11:10:12 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-10-01 11:10:12 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-10-01 11:10:12 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-10-01 11:10:12 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-10-01 11:10:12 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [AppsSwitchThemeFile, SystemSwitchThemeFile] 
+2023-10-01 11:10:12 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-10-01 11:10:12 | Info | AppsSwitchThemeFile.HandleSwitch: update info - previous: Dark, pending: Light, mode: Switch 
+2023-10-01 11:10:12 | Info | SystemSwitchThemeFile.SwitchSystemTheme: update info - previous: Dark/NoAccent, pending: Light/NoAccent, mode: Switch, accent: no 
+2023-10-01 11:10:12 | Info | ThemeManager.UpdateTheme: dwm management: requested standard refresh will be performed by component(s) in queue 
+2023-10-01 11:10:12 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-10-01 11:10:12 | Info | ThemeManager.UpdateTheme: light theme switch performed, source: TimeSwitchModule, sunrise: 9/27/2023 7:00:00 AM 
+2023-10-01 11:10:13 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-10-01 11:10:26 | Info | Program.Main: service shutdown successful 
+2023-10-01 11:11:56 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-10-01 11:11:56 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-10-01 11:11:56 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-10-01 11:11:57 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-10-01 11:11:57 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-10-01 11:11:57 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-10-01 11:11:57 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-10-01 11:11:57 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-10-01 11:11:57 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-10-01 11:11:57 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-10-01 11:19:46 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-01 11:19:46 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-01 12:37:20 | Info | SystemEventHandler.HandleTimeChangedEvent: system time changed from 10/1/2023 12:37:20 PM 
+2023-10-01 12:37:29 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-01 12:37:29 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-01 13:16:37 | Info | SystemEventHandler.HandleTimeChangedEvent: system time changed from 10/1/2023 1:16:37 PM 
+2023-10-01 13:16:41 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-01 13:16:41 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-01 13:46:44 | Info | Program.Main: service shutdown successful 
+2023-10-02 18:54:22 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-10-02 18:54:22 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-10-02 18:54:23 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-10-02 18:54:24 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-10-02 18:54:24 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-10-02 18:54:24 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-10-02 18:54:24 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-10-02 18:54:24 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-10-02 18:54:24 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-10-02 18:54:24 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [AppsSwitchThemeFile, SystemSwitchThemeFile] 
+2023-10-02 18:54:24 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-10-02 18:54:24 | Info | AppsSwitchThemeFile.HandleSwitch: update info - previous: Light, pending: Dark, mode: Switch 
+2023-10-02 18:54:24 | Info | SystemSwitchThemeFile.SwitchSystemTheme: update info - previous: Light/NoAccent, pending: Dark/NoAccent, mode: Switch, accent: no 
+2023-10-02 18:54:24 | Info | ThemeManager.UpdateTheme: dwm management: requested standard refresh will be performed by component(s) in queue 
+2023-10-02 18:54:25 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-10-02 18:54:25 | Info | ThemeManager.UpdateTheme: dark theme switch performed, source: TimeSwitchModule, sunset: 9/27/2023 5:00:00 PM 
+2023-10-02 18:54:25 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-10-02 19:30:22 | Info | SystemEventHandler.HandleTimeChangedEvent: system time changed from 10/2/2023 7:30:22 PM 
+2023-10-02 19:30:24 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-02 19:30:24 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-04 07:59:51 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-10-04 07:59:51 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-10-04 07:59:51 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-10-04 07:59:52 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-10-04 07:59:52 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-10-04 07:59:52 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-10-04 07:59:52 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-10-04 07:59:52 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-10-04 07:59:52 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-10-04 07:59:52 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [AppsSwitchThemeFile, SystemSwitchThemeFile] 
+2023-10-04 07:59:52 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-10-04 07:59:52 | Info | AppsSwitchThemeFile.HandleSwitch: update info - previous: Dark, pending: Light, mode: Switch 
+2023-10-04 07:59:52 | Info | SystemSwitchThemeFile.SwitchSystemTheme: update info - previous: Dark/NoAccent, pending: Light/NoAccent, mode: Switch, accent: no 
+2023-10-04 07:59:52 | Info | ThemeManager.UpdateTheme: dwm management: requested standard refresh will be performed by component(s) in queue 
+2023-10-04 07:59:52 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-10-04 07:59:52 | Info | ThemeManager.UpdateTheme: light theme switch performed, source: TimeSwitchModule, sunrise: 9/27/2023 7:00:00 AM 
+2023-10-04 07:59:53 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-10-04 08:54:43 | Info | Program.Main: service shutdown successful 
+2023-10-04 08:56:01 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-10-04 08:56:01 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-10-04 08:56:01 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-10-04 08:56:01 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-10-04 08:56:01 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-10-04 08:56:01 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-10-04 08:56:01 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-10-04 08:56:01 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-10-04 08:56:01 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-10-04 08:56:01 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-10-04 09:01:47 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-04 09:01:55 | Info | Program.Main: service shutdown successful 
+2023-10-05 07:53:22 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-10-05 07:53:22 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-10-05 07:53:22 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-10-05 07:53:22 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-10-05 07:53:22 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-10-05 07:53:22 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-10-05 07:53:22 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-10-05 07:53:22 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-10-05 07:53:23 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-10-05 07:53:23 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-10-05 07:53:23 | Error | UpdateHandler.CheckNewVersion: update check failed HttpRequestException > No such host is known. (raw.githubusercontent.com:443) > Void MoveNext()
+2023-10-05 07:58:57 | Info | Program.Main: service shutdown successful 
+2023-10-06 13:31:28 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-10-06 13:31:28 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-10-06 13:31:29 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-10-06 13:31:29 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-10-06 13:31:29 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-10-06 13:31:29 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-10-06 13:31:29 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-10-06 13:31:29 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-10-06 13:31:29 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-10-06 13:31:30 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-10-06 13:32:05 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-06 13:32:05 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-06 14:50:44 | Info | Program.Main: service shutdown successful 
+2023-10-06 14:52:02 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-10-06 14:52:02 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-10-06 14:52:03 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-10-06 14:52:03 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-10-06 14:52:03 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-10-06 14:52:03 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-10-06 14:52:03 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-10-06 14:52:03 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-10-06 14:52:03 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-10-06 14:52:03 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-10-06 14:52:12 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-06 14:53:04 | Info | Program.Main: service shutdown successful 
+2023-10-06 15:00:31 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-10-06 15:00:31 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-10-06 15:00:31 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-10-06 15:00:32 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-10-06 15:00:32 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-10-06 15:00:32 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-10-06 15:00:32 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-10-06 15:00:32 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-10-06 15:00:32 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-10-06 15:00:32 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-10-06 15:39:08 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-06 15:39:08 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-06 15:39:56 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-06 15:39:56 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-06 15:40:27 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-06 15:40:27 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-06 15:40:59 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-06 15:40:59 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-06 15:41:49 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-06 15:41:49 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-06 15:42:23 | Info | Program.Main: service shutdown successful 
+2023-10-06 15:44:14 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-10-06 15:44:14 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-10-06 15:44:15 | Info | ThemeFile.SyncWithActiveTheme: theme used for synching is custom theme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\Custom.theme 
+2023-10-06 15:44:15 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-10-06 15:44:15 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-10-06 15:44:15 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-10-06 15:44:15 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-10-06 15:44:15 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-10-06 15:44:15 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-10-06 15:44:15 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-10-06 15:49:56 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-06 15:49:56 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-06 15:51:05 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-06 15:51:05 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-06 15:51:31 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-06 15:51:31 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-06 15:51:45 | Info | Program.Main: service shutdown successful 
+2023-10-06 15:53:00 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-10-06 15:53:00 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-10-06 15:53:01 | Info | ThemeFile.SyncWithActiveTheme: theme used for synching is custom theme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\Custom.theme 
+2023-10-06 15:53:01 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-10-06 15:53:01 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-10-06 15:53:01 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-10-06 15:53:01 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-10-06 15:53:01 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-10-06 15:53:01 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-10-06 15:53:01 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-10-06 15:57:05 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-06 15:57:05 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-06 15:57:10 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-06 15:57:10 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-06 15:57:27 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-06 15:57:27 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-06 15:58:21 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-06 15:58:21 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 
+2023-10-06 16:13:14 | Info | Program.Main: service shutdown successful 
+2023-10-06 17:44:10 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-10-06 17:44:10 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-10-06 17:44:11 | Info | ThemeFile.SyncWithActiveTheme: theme used for synching is custom theme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\Custom.theme 
+2023-10-06 17:44:11 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-10-06 17:44:11 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-10-06 17:44:11 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-10-06 17:44:11 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-10-06 17:44:11 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-10-06 17:44:11 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-10-06 17:44:11 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [AppsSwitchThemeFile, SystemSwitchThemeFile] 
+2023-10-06 17:44:11 | Info | ThemeFile.SyncWithActiveTheme: theme used for synching is custom theme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\Custom.theme 
+2023-10-06 17:44:11 | Info | AppsSwitchThemeFile.HandleSwitch: update info - previous: Light, pending: Dark, mode: Switch 
+2023-10-06 17:44:11 | Info | SystemSwitchThemeFile.SwitchSystemTheme: update info - previous: Light/NoAccent, pending: Dark/NoAccent, mode: Switch, accent: no 
+2023-10-06 17:44:11 | Info | ThemeManager.UpdateTheme: dwm management: requested standard refresh will be performed by component(s) in queue 
+2023-10-06 17:44:11 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-10-06 17:44:12 | Info | ThemeManager.UpdateTheme: dark theme switch performed, source: TimeSwitchModule, sunset: 9/27/2023 5:00:00 PM 
+2023-10-06 17:44:12 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-10-06 22:46:35 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-10-06 22:46:35 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-10-06 22:46:35 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-10-06 22:46:37 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-10-06 22:46:37 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-10-06 22:46:37 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-10-06 22:46:37 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-10-06 22:46:37 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-10-06 22:46:37 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-10-06 22:46:37 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-10-06 23:44:44 | Info | Program.Main: service shutdown successful 
+2023-10-07 08:20:33 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-10-07 08:20:33 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-10-07 08:20:34 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-10-07 08:20:34 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-10-07 08:20:34 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-10-07 08:20:34 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-10-07 08:20:34 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-10-07 08:20:34 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-10-07 08:20:34 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-10-07 08:20:34 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [AppsSwitchThemeFile, SystemSwitchThemeFile] 
+2023-10-07 08:20:34 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-10-07 08:20:34 | Info | AppsSwitchThemeFile.HandleSwitch: update info - previous: Dark, pending: Light, mode: Switch 
+2023-10-07 08:20:34 | Info | SystemSwitchThemeFile.SwitchSystemTheme: update info - previous: Dark/NoAccent, pending: Light/NoAccent, mode: Switch, accent: no 
+2023-10-07 08:20:34 | Info | ThemeManager.UpdateTheme: dwm management: requested standard refresh will be performed by component(s) in queue 
+2023-10-07 08:20:34 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-10-07 08:20:34 | Info | ThemeManager.UpdateTheme: light theme switch performed, source: TimeSwitchModule, sunrise: 9/27/2023 7:00:00 AM 
+2023-10-07 08:20:35 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-10-07 08:25:09 | Info | Program.Main: service shutdown successful 
+2023-10-07 08:32:25 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-10-07 08:32:25 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-10-07 08:32:25 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-10-07 08:32:25 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-10-07 08:32:25 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-10-07 08:32:25 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-10-07 08:32:25 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-10-07 08:32:25 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-10-07 08:32:25 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-10-07 08:32:25 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-10-07 11:10:49 | Info | Program.Main: service shutdown successful 
+2023-10-08 11:53:31 | Info | Program.Main: commit hash: 57ef363, build: 10.4.0.35 
+2023-10-08 11:53:31 | Info | Program.Main: cwd: C:\Users\trung\AppData\Local\Programs\AutoDarkMode\adm-app\AutoDarkModeSvc.exe 
+2023-10-08 11:53:31 | Info | ThemeFile.SyncWithActiveTheme: theme used for syncing is ADMTheme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme 
+2023-10-08 11:53:32 | Info | AsyncPipeServer.Loop: started npipe server with 5 workers (single in, multi out), request: admpipe_request_trung 
+2023-10-08 11:53:32 | Info | ComponentManager..ctor: current windows build: 22621.2283 
+2023-10-08 11:53:32 | Info | ComponentManager..ctor: using apps and system components for newer builds 19044 and up 
+2023-10-08 11:53:32 | Info | ComponentManager..ctor: using wallpaper component for windows builds 22621.1105 and up 
+2023-10-08 11:53:32 | Info | ComponentManager..ctor: using colorization and cursor switcher for newer builds 19044 and up 
+2023-10-08 11:53:32 | Info | TimeSwitchGovernor.EnableHook: time switch governor selected 
+2023-10-08 11:53:32 | Info | SystemEventHandler.RegisterResumeEvent: enabling theme refresh at system unlock (win 11) 
+2023-10-08 11:53:54 | Info | MessageParser.Parse: signal received: request for running status 
+2023-10-08 11:53:54 | Info | MessageParser.Parse: signal received: validate autostart entries 
+2023-10-08 11:53:54 | Info | TaskSchdHandler.GetLogonTask: logon task folder does not exist 
+2023-10-08 11:54:26 | Info | MessageParser.Parse: signal recevied: get autostart state 
+2023-10-08 11:54:35 | Info | MessageParser.Parse: signal received: detecting new monitors 
+2023-10-08 11:54:36 | Info | DisplayHandler.DetectMonitors: missing monitor found, adding new default config for: \\?\DISPLAY#LEN40A9#4&20d4e84e&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7} 
+2023-10-08 11:54:36 | Info | MessageParser.Parse: signal received: get requested theme 
+2023-10-08 12:08:04 | Info | MessageParser.Parse: signal received: invoke theme switch request 
+2023-10-08 12:08:04 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [WallpaperSwitchThemeFile] 
+2023-10-08 12:08:04 | Info | WallpaperSwitch.LogHandleSwitch: update info - previous: Dark/Stretch, now: Light/Stretch, mode: Fill, type: Individual 
+2023-10-08 12:08:05 | Info | ThemeFile.SyncWithActiveTheme: theme used for synching is custom theme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\Custom.theme 
+2023-10-08 12:08:05 | Info | ThemeManager.UpdateTheme: dwm management: no refresh required 
+2023-10-08 12:08:05 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-10-08 12:08:05 | Info | ThemeManager.UpdateTheme: light theme switch performed, source: Manual 
+2023-10-08 12:08:31 | Info | MessageParser.Parse: signal received: invoke theme switch request 
+2023-10-08 12:08:31 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [WallpaperSwitchThemeFile] 
+2023-10-08 12:08:32 | Info | WallpaperSwitch.LogHandleSwitch: update info - previous: Dark/Fill, now: Light/Fill, mode: Fill, type: Individual 
+2023-10-08 12:08:32 | Info | ThemeFile.SyncWithActiveTheme: theme used for synching is custom theme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\Custom.theme 
+2023-10-08 12:08:32 | Info | ThemeManager.UpdateTheme: dwm management: no refresh required 
+2023-10-08 12:08:32 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-10-08 12:08:32 | Info | ThemeManager.UpdateTheme: light theme switch performed, source: Manual 
+2023-10-08 12:08:36 | Info | MessageParser.Parse: signal received: invoke theme switch request 
+2023-10-08 12:08:45 | Info | MessageParser.Parse: signal received: invoke theme switch request 
+2023-10-08 12:08:56 | Info | MessageParser.Parse: signal received: invoke theme switch request 
+2023-10-08 12:08:56 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [WallpaperSwitchThemeFile] 
+2023-10-08 12:08:56 | Info | WallpaperSwitch.LogHandleSwitch: update info - previous: Unknown/Fill, now: Light/Fill, mode: Fill, type: Individual 
+2023-10-08 12:08:57 | Info | ThemeFile.SyncWithActiveTheme: theme used for synching is custom theme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\Custom.theme 
+2023-10-08 12:08:57 | Info | ThemeManager.UpdateTheme: dwm management: no refresh required 
+2023-10-08 12:08:57 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-10-08 12:08:57 | Info | ThemeManager.UpdateTheme: light theme switch performed, source: Manual 
+2023-10-08 12:09:32 | Info | MessageParser.Parse: signal received: invoke theme switch request 
+2023-10-08 12:09:32 | Info | ComponentManager.GetComponentsToUpdate: components queued for update: [WallpaperSwitchThemeFile] 
+2023-10-08 12:09:32 | Info | WallpaperSwitch.LogHandleSwitch: update info - previous: Unknown/Fill, now: Light/Fill, mode: Fill, type: Individual 
+2023-10-08 12:09:32 | Info | ThemeFile.SyncWithActiveTheme: theme used for synching is custom theme, path: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\Custom.theme 
+2023-10-08 12:09:32 | Info | ThemeManager.UpdateTheme: dwm management: no refresh required 
+2023-10-08 12:09:32 | Info | Tm2Handler.SetTheme: applied theme ADMTheme, from origin: C:\Users\trung\AppData\Local\Microsoft\Windows\Themes\ADMTheme.theme directly via IThemeManager2 
+2023-10-08 12:09:32 | Info | ThemeManager.UpdateTheme: light theme switch performed, source: Manual 
+2023-10-08 12:09:49 | Info | PostponeManager.Remove: postpone queue cleared 
+2023-10-08 12:09:49 | Info | SystemEventHandler.SystemEvents_Windows11_SessionSwitch: system unlocked, refreshing theme 

@@ -4,7 +4,6 @@ $foldersToBackup = @(
     "AutoDarkMode",
     "flux",
     "oh-my-posh"
-    
 )
 
 # Define the source directory

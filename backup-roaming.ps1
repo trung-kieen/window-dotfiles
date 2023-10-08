@@ -2,11 +2,10 @@
 $foldersToBackup = @(
     "AutoDarkMode",
     "Rainmeter"
-    
 )
 
 # Define the source directory
-$roamingDirectory = [System.Environment]::GetFolderPath('ApplicationData')
+$sourceDirectory = [System.Environment]::GetFolderPath('ApplicationData')
 
 # Define the destination directory
 $destinationDirectory = "D:\window-setup\roaming-file"
