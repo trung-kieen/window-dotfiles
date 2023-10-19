@@ -60,9 +60,13 @@ scoop install ripgrep curl grep sed less touch lf make
 scoop bucket add nerd-fonts
 scoop install nerd-fonts/JetBrains-Mono
 scoop install main/gdb
+scoop bucket add java
 scoop install extras/sharex
-scoop install openjdk11
+# scoop install openjdk11
 
+scoop install openjdk
+# For java development
+choco install -y openjdk maven gradle git atom putty curl postman  db-visualizer 7zip intellijidea-community
 
 pip install --user --upgrade pynvim 
 # Install nvim plug
@@ -81,6 +85,7 @@ scoop install main/clangd
 scoop install zig
 scoop install extras/terminal-icons
 scoop install main/zoxide
+scoop install main/cmder
 
 #GIT Installation
  
@@ -165,7 +170,9 @@ Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer
 #Set-ItemProperty . Hidden "1"
 Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" -Name "Hidden" -Value 1
 
- choco install tortoisegit --yes
+choco install tortoisegit --yes
+choco install teamviewer --yes
+choco install ultraviewer --yes
 
 # choco install webdeploy -y
 # choco install urlrewrite -y
