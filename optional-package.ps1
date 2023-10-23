@@ -4,9 +4,9 @@ choco install eclipse --yes
 
 choco install docker-desktop --yes
 Update-Environment-Path
-
-scoop install main/php
-scoop install extras/xampp
+ 
+scoop install main/php --yes
+scoop install extras/xampp --yes
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 dism.exe /online /enable-feature /featurename:Microsoft-Window-Subsystem-Linux /all /norestart
@@ -30,4 +30,4 @@ Add-Content $PROFILE "`nImport-Module posh-git`nImport-Module oh-my-posh`nSet-Po
 # Docker extension for vscode	 
 code --install-extension PeterJausovec.vscode-docker
 
-
+choco install visualstudio2019buildtools --yes

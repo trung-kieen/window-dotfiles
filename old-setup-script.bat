@@ -28,3 +28,6 @@ scoop install msys2
 scoop install rainmeter flow-launcher obsidian anki winrar sublime-text flux brave
 winget install -e --id VNGCorp.Zalo
 winget install --id Armin2208.WindowsAutoNightMode
+
+
+choco install visualstudio2019buildtools

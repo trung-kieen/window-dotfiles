@@ -59,11 +59,13 @@ scoop install neovim
 scoop install ripgrep curl grep sed less touch lf make
 scoop bucket add nerd-fonts
 scoop install nerd-fonts/JetBrains-Mono
+
 scoop install main/gdb
 scoop bucket add java
 scoop install extras/sharex
 # scoop install openjdk11
 
+choco install nerd-fonts-jetbrainsmono --yes
 scoop install openjdk
 # For java development
 choco install -y openjdk maven gradle git atom putty curl postman  db-visualizer 7zip intellijidea-community
@@ -306,7 +308,6 @@ Copy-Item -Path .\settings.json" -Destination "$env:LOCALAPPDATA\Packages\Micros
 . $PROFILE
 
 .\setup-config-file.ps1
-
 # Font to support PowerShell Tooling:
 git clone https://github.com/ryanoasis/nerd-fonts.git  --depth 1
 cd nerd-fonts
