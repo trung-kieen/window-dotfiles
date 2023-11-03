@@ -1,7 +1,6 @@
 # Define the list of folders to back up from AppData\Local
 $foldersToBackup = @(
-    "AutoDarkMode",
-    "Rainmeter"
+    "AutoDarkMode"
 )
 
 # Define the source directory

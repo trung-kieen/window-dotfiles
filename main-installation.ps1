@@ -5,10 +5,10 @@
 
 
 Write-Warning  "Please make sure to install following software by provider website directly as these require userinput/not available on choco library" -ForegroundColor DarkRed
-Write-Warning  "Microsoft Visual Studio, MS SQL Server , PostSharp, Gibraltar,Resharper" -ForegroundColor
+# Write-Warning  "Microsoft Visual Studio, MS SQL Server , PostSharp, Gibraltar,Resharper" -ForegroundColor
  
-Write-Host "This script will install following packages - chocolatey , GIT , IISFeatures, Notepad++, NodeJS, Postman,
-RedisDesktop manager, Postman, Zeplin & Service bus explorer, ... " -ForegroundColor Green
+# Write-Host "This script will install following packages - chocolatey , GIT , IISFeatures, Notepad++, NodeJS, Postman,
+# RedisDesktop manager, Postman, Zeplin & Service bus explorer, ... " -ForegroundColor Green
   
  
 #function to update system path after installation
@@ -54,11 +54,16 @@ Update-Environment-Path
 
 
 scoop bucket add main
+scoop install sudo
+sudo scoop install 7zip git openssh --global
+scoop install aria2 curl grep sed less touch
+scoop install python ruby go perl
 scoop install lazygit
 scoop install neovim
 scoop install ripgrep curl grep sed less touch lf make
 scoop bucket add nerd-fonts
 scoop install nerd-fonts/JetBrains-Mono
+scoop install Cascadia-Code 
 
 scoop install main/gdb
 scoop bucket add java
@@ -66,6 +71,7 @@ scoop install extras/sharex
 # scoop install openjdk11
 
 choco install nerd-fonts-jetbrainsmono --yes
+
 scoop install openjdk
 # For java development
 choco install -y openjdk maven gradle git atom putty curl postman  db-visualizer 7zip intellijidea-community
@@ -315,7 +321,7 @@ cd nerd-fonts
 cd ..\
 Write-Output 'Be sure to configure Windows Terminal fonts! Suggest using "fontFace": "MesloLGM NF"'
 
- 
+.\git-setup.bat
  
 Write-Host "Script execution finished , please check output for any error and restart your machine!!!!" -ForegroundColor blue  -BackgroundColor Yellow
 Write-Host "Check out install optional pacakges, all scoop packages have already install in this script" -ForegroundColor blue  -BackgroundColor Yellow

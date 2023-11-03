@@ -13,3 +13,4 @@ cat id_ed25519.pub
 echo "--------------------------------------------"
 echo put this to git ssh setting from github and then continue terminal will sleep 60 second
 echo access site https://github.com/settings/keys
+Read-Host "Press Enter to continue..."
