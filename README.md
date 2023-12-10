@@ -28,7 +28,7 @@ Some of package are not available in scoop need to install via choco but choco r
 There are other heavy packages in `optional-package.ps1`.
 Consider to reuse other packages list:
 [link 1](https://gist.github.com/jetstreamin/d59be158acb494bf0dbe2591c9385274)
-[link 1](https://github.com/berkanuslu/choco-development-enviroment-setup/blob/main/setup_development_environment.ps1)
+[link 2](https://github.com/berkanuslu/choco-development-enviroment-setup/blob/main/setup_development_environment.ps1)
 
 # Futher setup 
 After install window plz go to msconfig and change RAM usage.
