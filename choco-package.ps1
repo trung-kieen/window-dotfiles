@@ -1,6 +1,14 @@
 #Choco installation require powershell or window terminal run as admin
 # Some software in here have comment in to advoid duplicate with scoop install in main script 
 # But this is an opertunity to run individual software version like have two firefox to use with different user.
+
+function Update-Environment-Path
+{
+    $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") `
+        + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")
+}
+
+
 if(-not($ifChocoInstalled)){
     Write-host "Chocolatey is not installed, installation begin now " -ForegroundColor Green
     Set-ExecutionPolicy Bypass -Scope Process -Force;

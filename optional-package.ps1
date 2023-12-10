@@ -1,5 +1,5 @@
-# NOTE: This will contain many hevy package 
-# Eclipse 	
+# This will contain many hevy package
+# Require window update for .NET Environment 3.5 for install wsl 
 
 function Update-Environment-Path
 {
@@ -16,8 +16,8 @@ Update-Environment-Path
 # Install additional development environment
 scoop install ruby go perl zig
 
-scoop install main/php --yes
-scoop install extras/xampp --yes
+scoop install main/php 
+scoop install extras/xampp 
 
 
 
