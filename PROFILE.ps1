@@ -14,7 +14,7 @@
 ### more information about execution policies, run Get-Help about_Execution_Policies.
 
 # Import Terminal Icons
-Import-Module -Name Terminal-Icons
+# Import-Module -Name Terminal-Icons
 
 # Find out if the current user identity is elevated (has admin rights)
 $identity = [Security.Principal.WindowsIdentity]::GetCurrent()
@@ -223,5 +223,9 @@ Invoke-Expression (& { (zoxide init powershell | Out-String) })
 
 
 ## Final Line to set prompt
-oh-my-posh init pwsh --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/cobalt2.omp.json | Invoke-Expression
+#oh-my-posh init pwsh --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/cobalt2.omp.json | Invoke-Expression
 
+
+Import-Module posh-git
+#Import-Module oh-my-posh
+#Set-PoshPrompt Paradox
