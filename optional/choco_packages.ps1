@@ -50,11 +50,11 @@ function Install-ChocolateyPackage {
 
     # Check if the package is installed
     if ($installedPackages -contains $packageName) {
-        Write-Host "$packageName is already installed."
+        Write-Host "$packageName is already installed with choco."
     }
     # Avoid duplicate with scoop pacakge 
     elseif(scoop which $packageName){
-        Write-Host "$packageName is already installed."
+        Write-Host "$packageName is already installed with scoop."
     }
     else {
         # Install the package
