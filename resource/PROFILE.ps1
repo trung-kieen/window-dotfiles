@@ -82,6 +82,13 @@ function admin {
         Start-Process "$psHome\powershell.exe" -Verb runAs
     }
 }
+function Remove-FolderRecursively {
+    param (
+        [string]$Path
+    )
+    
+    Remove-Item -Path $Path -Recurse -Force
+}
 
 # Set UNIX-like aliases for the admin command, so sudo <command> will run the command
 # with elevated rights. 
@@ -90,6 +97,9 @@ Set-Alias -Name sudo -Value admin
 Set-Alias -Name l -Value Get-ChildIte
 Set-Alias -Name touch -Value New-Item
 
+# Optionally, create an alias for the function
+New-Alias -Name rmrf -Value Remove-FolderRecursively -Option AllScope -Force
+New-Alias -Name rmf -Value Remove-FolderRecursively -Option AllScope -Force
 
 
 # Make it easy to edit this profile once it's installed

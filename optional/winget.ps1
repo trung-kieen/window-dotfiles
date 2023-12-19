@@ -1,8 +1,8 @@
 
 
-winget install --id Armin2208.WindowsAutoNightMode --silent --accept-package-agreements
-winget install -e --id FilesCommunity.Files --silent --accept-package-agreements
-winget install Microsoft.PowerShell --silent --accept-package-agreements
+winget install --id Armin2208.WindowsAutoNightMode --silent --accept-package-agreements --accept-source-agreements
+winget install -e --id FilesCommunity.Files --silent --accept-package-agreements --accept-source-agreements
+winget install Microsoft.PowerShell --silent --accept-package-agreements --accept-source-agreements
 
 
 # NOTE: Uncomment if need these program

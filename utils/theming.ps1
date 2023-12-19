@@ -1,4 +1,6 @@
 
+.\utils\firefox.ps1
+
 # Common code fonts
 scoop bucket add nerd-fonts
 scoop install  nerd-fonts/JetBrains-Mono
@@ -9,7 +11,7 @@ scoop install  Cascadia-Code
 # Define constants for the SystemParametersInfo function
 # Set the path to your wallpaper image
 $scriptDirectory = Split-Path -Parent $MyInvocation.MyCommand.Definition
-$wallpaperPath =  "$scriptDirectory\../resource/wallpaper_light.jpg"
+$wallpaperPath =  "$scriptDirectory\../resource/wallpaper.png"
 
 
 # Update the wallpaper registry settings
