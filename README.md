@@ -13,6 +13,7 @@ Setting up a new device using package managers like Scoop, Chocolatey, and Winge
 - Install nerd fonts  (extend)
 - Install wsl (extend)
 - Setup github ssh (extend)
+
 For [extension](#extension) mark please see detail in file `extend.ps1`.
 # Setup
 <a name="setup"></a>
@@ -27,10 +28,10 @@ iex main.ps1
 ```
 # Extension 
 <a name="extension"></a>
-For some extended config like setup github ssh, install wsl, nerd font and other development tool consider look up `extend.ps1`. Not every feature in script are *enable* by default. Comment in and out what you need in this file and run:
+For some extended config like setup github ssh, install wsl, nerd font and other development tool consider look up `extend.ps1`. Not every feature in script are *enable* by default. Comment in and out what you need in this [file](https://github.com/trung-kieen/window-setup/blob/main/extend.ps1) and run:
 ```
 iex extend.ps1
 ```
 # Acknowledgment
 <a name="acknowledgment"></a>
-Special thanks to [jayharris](https://github.com/jayharris/dotfiles-windows), [jamestharpe](https://github.com/jamestharpe/windows-development-environment/blob/main/env-windows.ps1) for their great repo.
+Special thanks to [jayharris](https://github.com/jayharris/dotfiles-windows) and [jamestharpe](https://github.com/jamestharpe/windows-development-environment/blob/main/env-windows.ps1) for their great repo.
