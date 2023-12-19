@@ -1,5 +1,6 @@
+# We can install vscode extension via their name in store 
+# To save extensions and user settings vscode provide syncing method that work really great
 
-# Vanilla Visual Studio Code isn't very interesting, so let's customize it by installing some common plug-ins. Here's what I install by default
 # Pretty icons
 code --install-extension robertohuertasm.vscode-icons
 

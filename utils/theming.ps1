@@ -1,4 +1,4 @@
-
+# Setup firefox theme cascade
 .\utils\firefox.ps1
 
 # Common code fonts
@@ -40,4 +40,11 @@ if (Test-Path $personalizationPath) {
 } else {
     Write-Host "Registry key not found. Can not set lock screen."
 }
+
+
+# Clean desktop shortcuts 
+# Use ulauncher to search for applications instead. 
+# Make your desktop more clean for creative
+Remove-Item "$env:USERPROFILE\Desktop\*.lnk"
+Remove-Item "C:\Users\Public\Desktop\*.lnk"
 

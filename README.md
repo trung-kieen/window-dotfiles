@@ -1,27 +1,35 @@
+[Feature](#feature) - [Setup](#setup) - [Extension](#extension) - [Acknowledgment](#acknowledgment)
+
+
 # Feature
-Automate proccess setup new device with package manager like scoop, choco and winget.
-Script primary install new software via scoop because it don't  need Admin permition for this job.
+<a name="feature"></a>
+Setting up a new device using package managers like Scoop, Chocolatey, and Winget. The script primarily installs new software via Scoop, as it does not require Admin permissions for execution.
+- Change system privacy settings
+- Customize firefox apprearence
+- Install font
+- Setup user profie - $PROFILE 
+- Remove some window default apllications
+- Install wsl
+- Setup github ssh
+
 # Setup
-To install choco and scoop we need to set the PowerShell Execution Policy to something more permissive than "Restricted."
-By pass policy with powershell as admin
+<a name="setup"></a>
+To install Chocolatey and Scoop, the PowerShell Execution Policy needs to be set to something more permissive than "Restricted." Bypass the policy with PowerShell as an administrator:
 ```
 Set-ExecutionPolicy AllSigned
 Set-ExecutionPolicy RemoteSigned -scope CurrentUser
 ```
-Install Chocolatey in Admin
-```
-iwr -useb chocolatey.org/install.ps1 | iex
-```
-Install Scoop no Admin necessary however must ExecutionPolicy in admin before
-```
-iwr -useb get.scoop.sh | iex
-```
-
-Navigate to repo and run script
+Clone and navigate to the repository and run the script
 ```
 iex main.ps1
 ```
-
-
+# Extension 
+<a name="extension"></a>
+To install Chocolatey and Scoop, the PowerShell Execution Policy needs to be set to something more permissive than "Restricted." Bypass the policy with PowerShell as an administrator:
+For some extended config like setup github ssh, install wsl and other development tool consider look up `extend.ps1`. Comment in and out what you need in this file and run 
+```
+iex extend.ps1
+```
 # Acknowledgment
-Thanks to [jayharris](https://github.com/jayharris/dotfiles-windows), [jamestharpe](https://github.com/jamestharpe/windows-development-environment/blob/main/env-windows.ps1).
+<a name="acknowledgment"></a>
+Special thanks to [jayharris](https://github.com/jayharris/dotfiles-windows), [jamestharpe](https://github.com/jamestharpe/windows-development-environment/blob/main/env-windows.ps1) for their great repo.
