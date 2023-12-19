@@ -8,7 +8,10 @@ scoop install  Cascadia-Code
 # Set window wallpaper
 # Define constants for the SystemParametersInfo function
 # Set the path to your wallpaper image
-$wallpaperPath = "..\resource\wallpaper.png"
+$scriptDirectory = Split-Path -Parent $MyInvocation.MyCommand.Definition
+$wallpaperPath =  "$scriptDirectory\../resource/wallpaper_light.jpg"
+
+
 # Update the wallpaper registry settings
 Set-ItemProperty -Path 'HKCU:\Control Panel\Desktop' -Name Wallpaper -Value $wallpaperPath
 # Refresh the desktop to apply the changes

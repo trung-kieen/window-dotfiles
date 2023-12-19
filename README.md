@@ -22,5 +22,6 @@ Navigate to repo and run script
 iex main.ps1
 ```
 
+
 # Acknowledgment
-thanks to [jayharris](https://github.com/jayharris/dotfiles-windows), [jamestharpe](https://github.com/jamestharpe/windows-development-environment/blob/main/env-windows.ps1).
+Thanks to [jayharris](https://github.com/jayharris/dotfiles-windows), [jamestharpe](https://github.com/jamestharpe/windows-development-environment/blob/main/env-windows.ps1).

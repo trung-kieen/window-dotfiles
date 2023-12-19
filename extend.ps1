@@ -22,4 +22,3 @@ Remove-Item "C:\Users\Public\Desktop\*.lnk"
 # Neovim setup 
 pip install --user --upgrade pynvim
 git clone https://github.com/NvChad/NvChad $HOME\AppData\Local\nvim --depth 1
-

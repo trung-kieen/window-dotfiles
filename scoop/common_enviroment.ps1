@@ -32,6 +32,7 @@ ScoopInstall clangd
 Update-Environment-Path
 ScoopInstall gcc 
 ScoopInstall gdb
+ScoopInstall fzf
 Update-Environment-Path
 
 
