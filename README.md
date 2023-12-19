@@ -25,7 +25,7 @@ iex main.ps1
 ```
 # Extension 
 <a name="extension"></a>
-For some extended config like setup github ssh, install wsl, nerd font and other development tool consider look up `extend.ps1`. Not every feature in script are **enable** by default comment in and out what you need in this file and run:
+For some extended config like setup github ssh, install wsl, nerd font and other development tool consider look up `extend.ps1`. Not every feature in script are **enable** by default. Comment in and out what you need in this file and run:
 ```
 iex extend.ps1
 ```
