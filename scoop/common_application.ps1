@@ -1,8 +1,36 @@
+function ScoopInstall {
+    param (
+        [string]$packageName
+    )
 
-scoop install flow-launcher obsidian anki winrar sublime-text flux brave 
-scoop install extras/terminal-icons  extras/sharex 
+    # Check if the package is already installed
+    if (-not (scoop which $packageName))
+    {
+        # If not installed, then install the package
+        scoop install $packageName
+    }
+    else
+    {
+        # If already installed, display a message
+        Write-Host "$packageName is already installed."
+    }
+}
+ScoopInstall flow-launcher 
+ScoopInstall extras/terminal-icons  
+ScoopInstall obsidian 
+ScoopInstall anki 
+ScoopInstall winrar 
+ScoopInstall sublime-text 
+ScoopInstall flux 
+ScoopInstall brave 
+ScoopInstall extras/sharex 
 
 
-scoop install everything  figma  powertoys googlechrome
+ScoopInstall everything  
+ScoopInstall figma  
+ScoopInstall powertoys 
+ScoopInstall googlechrome
 
-scoop install  lazygit vim vscode
+ScoopInstall lazygit 
+ScoopInstall vim 
+ScoopInstall vscode

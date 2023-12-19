@@ -1,11 +1,19 @@
+function Verify-Elevated {
+    # Get the ID and security principal of the current user account
+    $myIdentity=[System.Security.Principal.WindowsIdentity]::GetCurrent()
+    $myPrincipal=new-object System.Security.Principal.WindowsPrincipal($myIdentity)
+    # Check to see if we are currently running "as Administrator"
+    return $myPrincipal.IsInRole([System.Security.Principal.WindowsBuiltInRole]::Administrator)
+}
+# Use gsudo or this this evaluate for admin access script
 if (!(Verify-Elevated)) {
    $newProcess = new-object System.Diagnostics.ProcessStartInfo "PowerShell";
    $newProcess.Arguments = $myInvocation.MyCommand.Definition;
    $newProcess.Verb = "runas";
    [System.Diagnostics.Process]::Start($newProcess);
-
    exit
 }
+Write-Host "System general configuration is in progress..."
 
 # Hyper-V required for docker and other things
 Enable-WindowsOptionalFeature -Online -FeatureName:Microsoft-Hyper-V -All -NoRestart

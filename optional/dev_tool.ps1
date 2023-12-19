@@ -10,13 +10,12 @@ scoop install main/php
 scoop install extras/xampp
 Update-Environment-Path
 
-choco install docker-desktop --yes
 scoop install atom putty postman  db-visualizer
-sudo choco install tortoisegit --yes
 
-
-sudo choco install redis-desktop-manager --yes
-sudo choco install zeplin --yes
+gsudo choco install tortoisegit --yes
+gsudo choco install docker-desktop --yes
+gsudo choco install redis-desktop-manager --yes
+gsudo choco install zeplin --yes
 
 
 # choco install eclipse --yes

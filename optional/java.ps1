@@ -1,4 +1,4 @@
-# system path after installation
+# Tool for java development ide, build tool, etc
 function Update-Environment-Path
 {
     $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") `
@@ -6,9 +6,6 @@ function Update-Environment-Path
 }
 
 
-############################################
-########## Development environment #########
-############################################
 scoop bucket add java
 scoop install   openjdk
 scoop install adoptopenjdk
