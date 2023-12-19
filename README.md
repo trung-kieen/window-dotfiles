@@ -25,7 +25,6 @@ iex main.ps1
 ```
 # Extension 
 <a name="extension"></a>
-To install Chocolatey and Scoop, the PowerShell Execution Policy needs to be set to something more permissive than "Restricted." Bypass the policy with PowerShell as an administrator:
 For some extended config like setup github ssh, install wsl and other development tool consider look up `extend.ps1`. Comment in and out what you need in this file and run 
 ```
 iex extend.ps1
