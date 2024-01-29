@@ -34,3 +34,10 @@ ScoopInstall googlechrome
 ScoopInstall lazygit 
 ScoopInstall vim 
 ScoopInstall vscode
+
+
+ScoopInstallespanso
+espansod.exe install misspell-en
+ScoopInstall  roundedtb
+
+
