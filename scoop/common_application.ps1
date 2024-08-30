@@ -36,7 +36,8 @@ ScoopInstall vim
 ScoopInstall vscode
 
 
-ScoopInstallespanso
+ScoopInstall espanso
+
 espansod.exe install misspell-en
 ScoopInstall  roundedtb
 
